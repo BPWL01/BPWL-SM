@@ -19,4 +19,5 @@ $mei = new mei();
 //memanggil method tampilkan_nama dari class mei
 echo $mei->tampilkan_nama();
 echo $mei->latihan();
+echo "Selamat Mencoba";
 ?>
