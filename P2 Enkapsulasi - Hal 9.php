@@ -1,5 +1,6 @@
 <?php
 //class mei
+<h3> enkapsulasi adalah menyembunyikan data atau variabel dari class lain dan hanya dapat diakses oleh anggota fungsi dari class itu sendiri yang telah dideklarasikan.</h3>
 class mei{
 	//property
 	public $nama;
